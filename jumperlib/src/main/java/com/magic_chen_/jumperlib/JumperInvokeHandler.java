@@ -14,8 +14,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 
-import static com.leigod.accelerator.jumper.ReflectUtils.checkGenericType;
-import static com.leigod.accelerator.jumper.ReflectUtils.isSubclassOf;
+import static com.magic_chen_.jumperlib.ReflectUtils.checkGenericType;
+import static com.magic_chen_.jumperlib.ReflectUtils.isSubclassOf;
 
 
 /**
